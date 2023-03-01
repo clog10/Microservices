@@ -1,0 +1,7 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.sourcePaths": [
+        "springboot-servicio-item"
+    ]
+}
