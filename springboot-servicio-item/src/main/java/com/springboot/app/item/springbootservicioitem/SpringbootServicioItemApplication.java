@@ -7,7 +7,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @EnableFeignClients
 @SpringBootApplication
-@EntityScan({"com.commons.commons.entity"})
+@EntityScan({ "com.commons.commons.entity" })
 public class SpringbootServicioItemApplication {
 
 	public static void main(String[] args) {
